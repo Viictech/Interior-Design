@@ -1,0 +1,68 @@
+.button2 button {
+    background-color: #cc9933;
+    color: rgb(255, 255, 255);
+    font-family: 'quicksand';
+    font-size: 15px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    width: 135px;
+    font-weight: 700;
+    align-items: center;
+    transition: all 0.5s;
+ }
+.button2 button:hover {
+        background-color: #b38f2e;
+}
+.button button {
+    background-color: #cc9933;
+    color: rgb(255, 255, 255);
+    font-family: 'quicksand';
+    font-size: 15px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    width: 220px;
+    font-weight: 700;
+    align-items: center;
+    transition: all 0.5s;
+ }
+.button button:hover {
+        background-color: #b38f2e;
+}
+.button3 button {
+    background-color: #ffffff;
+    color: #cc9933;
+    font-family: 'quicksand';
+    font-size: 15px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    width: 150px;
+    font-weight: 700;
+    align-items: center;
+    transition: all 0.5s;
+ }
+.button3 button:hover {
+        background-color: #b38f2e;
+        color: #ffffff;
+}
+.button3 {
+    padding-left: 600px;
+    padding-top: 10px;
+}

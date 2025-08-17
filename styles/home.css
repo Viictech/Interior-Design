@@ -1,0 +1,223 @@
+/* Hero Section */
+.hero-section {
+    height: 600px;
+    overflow: hidden;
+    margin-top: 10px;
+    margin-left: -10px;
+    margin-right: -10px;
+ 
+ }
+ .bg-images {
+    position: absolute;
+    height: 700px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+    filter: brightness(30%);
+ }
+ .hero-heading {
+    position: relative;
+    color: white;
+    font-family: 'Montserrat';
+    align-items: left;
+    padding: 50px 50px 800px 70px;
+    background-color: rgba(255, 255, 255, 0.8);
+    max-width: 600px;
+    margin: 70px;
+ }
+ .hero-h1 {
+    font-family: 'playfair-display';
+    font-size: 30px;
+    line-height: 70px;
+    font-weight: 400;
+    color: #2c2c2c;
+ }
+ .hero-h3 {
+    font-family: 'quicksand';
+    font-size: 18px;
+    line-height: 30px;
+    color: black;
+    text-align: justify;
+ }
+
+ /* Interior Section */
+.interior {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 150px;
+    padding: 20px;
+    background-color: #ffffff;
+    padding-left: 120px;
+
+}
+.interior img {
+    width: 500px;
+    height: 300px;
+    margin-top: 40px;
+}
+.interior-image {
+    padding-left: 150px;
+    line-height: 60px;
+    padding-right: 100px
+}
+.interior-head p {
+    font-family: 'quicksand';
+    font-size: 18px;
+    line-height: 35px;
+    color: #2c2c2c;
+    text-align: justify;
+}
+.interior-head h1 {
+    font-family: 'playfair-display';
+    font-size: 30px;
+    font-weight: 400;
+    color: #2c2c2c;
+    margin-top: -20px;
+}
+
+/* Build Section */
+.build {
+    justify-content: center;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+.header-build h1 {
+    font-family: 'playfair-display';
+    font-size: 40px;
+    font-weight: 400;
+    color: #2c2c2c;
+    font-variant: small-caps;
+
+    
+}
+.header-build {
+    text-align: center;
+    border-bottom: #cc9933 solid 2px;
+    width: 100%;
+}
+.build-img {
+    display: grid;
+    grid-template-columns: 2fr 3fr 2fr;
+    padding-left: 120px;
+    padding-top: 50px;
+}
+.build-img img {
+    width: 320px;
+    height: 200px;
+}
+.build-img3 {
+    padding-right: 120px;
+}
+.build-img2 {
+    padding-left: 70px;
+}
+.build-button {
+    padding-left: 75px;
+}
+.build-button h3 {
+    font-family: 'playfair-display';
+    font-size: 20px;
+    font-weight: 400;
+    padding-left: 5px;
+}
+
+/* Gallery Section */
+.gallery {
+    padding-top: 10px;
+    background-color: #cc9933;
+    margin: -10px;
+    padding-bottom: 80px;
+}
+.header-gallery h3 {
+    font-family: 'playfair-display';
+    font-size: 30px;
+    font-weight: 400;
+    color: #ffffff;
+    text-align: center;
+    padding-top: 20px;
+}
+.gallery-img img {
+    width: 350px;
+    height: 200px;
+    object-fit: cover;
+}
+.gallery-img {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(4, auto);
+    gap: 30px;
+    width: 900px;
+    justify-content: center;
+    padding-left: 220px;
+    padding-top: 20px;
+}
+.details {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    padding-top: 80px;
+    margin-left: 200px;
+    color: #ffffff;
+}
+.phone1 {
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    width: 230px;
+    font-size: 25px;
+}
+.mail1 {
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    width: 335px;
+    font-size: 25px;
+}
+.time1 {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    width: 150px;
+    font-size: 25px;
+}
+.mail-icon i {
+    font-size: 40px;
+    color: #cc9933;
+}
+.phone-icon i {
+    font-size: 40px;
+    color: #cc9933;
+}
+.time-icon i {
+    font-size: 40px;
+    color: #cc9933;
+}
+.mail1 {
+    margin-top: 30px;
+}
+.phone1 {
+    margin-top: 30px;
+}
+.time1 {
+    margin-top: 30px;
+}
+.contact {
+    margin-top: 80px;
+    padding-bottom: 70px;
+    margin: -10px;
+    height: 500px;
+    background-color: #ffffff;
+    background-image: url(../images/Bathroom-Renovation-Designs-Creek-1024x724.jpeg);
+    background-position: center;
+    position: relative;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+.left-column1 {
+    margin-top: 100px;
+}
+
+.imgf img {
+    width: 350px;
+    height: 400px;
+}
+.imgf {
+    display: grid;
+    gr
+}
